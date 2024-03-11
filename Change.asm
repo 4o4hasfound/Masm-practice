@@ -1,3 +1,5 @@
+;	This program calculate the least amount of "coins"/"paper money" that equals to the input 
+
 .386
 .model flat, stdcall
 .stack 4096

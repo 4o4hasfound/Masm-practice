@@ -1,3 +1,9 @@
+; This is the solution to this zerojudge question: https://zerojudge.tw/ShowProblem?problemid=a006
+; 求一元二次方程式 ax2+bx+c=0 的根
+
+; 輸入說明
+; 每組輸入共一行，內含三個整數 a, b, c 以空白隔開。
+
 .386
 .model flat, stdcall
 .stack 4096

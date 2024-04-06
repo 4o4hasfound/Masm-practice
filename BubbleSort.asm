@@ -1,3 +1,6 @@
+; This program will sort the unsorted list in the data section
+; then print the sorted list out
+
 .386
 .model flat, stdcall
 .stack 4096
